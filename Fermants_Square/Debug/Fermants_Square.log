@@ -1,0 +1,3 @@
+﻿  Fermants_Square.cpp
+c:\users\anathapindika\documents\c_fermants\fermants_square\fermants_square\fermants_square.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Fermants_Square.vcxproj -> C:\Users\Anathapindika\Documents\C_Fermants\Fermants_Square\Debug\Fermants_Square.exe
